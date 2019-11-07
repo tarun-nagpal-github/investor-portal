@@ -1,0 +1,30 @@
+{
+    "reports":[
+        {
+            "investorName": "Abco LLc",
+            "investorType": "Annual Return",
+            "paymentTerm": "Weekly",
+            "profitPercent": "24.5%"
+        },{
+            "investorName": "Goldmine Inc.",
+            "investorType": "Syndicate",
+            "paymentTerm": "Biweekly",
+            "profitPercent": "85%"
+        },{
+            "investorName": "Money Corp.",
+            "investorType": "Annual Return",
+            "paymentTerm": "Monthly",
+            "profitPercent": "98%"
+        },{
+            "investorName": "Abco LLc",
+            "investorType": "Annual Return",
+            "paymentTerm": "Weekly",
+            "profitPercent": "24.5%"
+        },{
+            "investorName": "Goldmine Inc.",
+            "investorType": "Syndicate",
+            "paymentTerm": "Biweekly",
+            "profitPercent": "10.5%"
+        }
+    ]
+}

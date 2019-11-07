@@ -1,0 +1,15 @@
+.p-3 {
+    padding: 1rem!important;
+}
+.chats-topbar .btn-secondary {
+    background:transparent;
+    padding:0;
+    line-height: 0;
+    border:0;
+}
+.chats-topbar .btn-secondary {
+    color:#6c757d!important;
+}
+ul.list-unstyled li {
+    cursor:pointer;
+}

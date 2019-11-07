@@ -1,0 +1,29 @@
+ .w-25 {
+    width: 25%!important;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.img {
+    vertical-align: middle;
+    border-style: none;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.text-center {
+    text-align: center!important;
+}
+.p-4 {
+    padding: 1.5rem!important;
+}
+.bg-success {
+    background-color: #28a745!important;
+}
+.mb-30 {
+    margin-bottom: 2.143rem !important;
+}

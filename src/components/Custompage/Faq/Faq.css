@@ -1,0 +1,9 @@
+.acd-des {
+	display:none;
+}
+.acd-des.show {
+	display:block;
+}
+:host /deep/ .accordion.shadow {
+    box-shadow: none !important;
+}

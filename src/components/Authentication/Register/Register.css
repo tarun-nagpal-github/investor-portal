@@ -1,0 +1,7 @@
+.error
+{
+  color:red;
+}
+ .disabled{
+  pointer-events: none;
+} 
