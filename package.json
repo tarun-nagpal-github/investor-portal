@@ -12,7 +12,7 @@
     "firebase": "^5.3.0",
     "font-awesome": "^4.7.0",
     "jquery-steps": "^1.1.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "mui": "0.0.1",
     "muicss": "^0.9.39",
     "node-sass": "^4.13.0",
